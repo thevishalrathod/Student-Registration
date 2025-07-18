@@ -1,7 +1,4 @@
-import mongoose from "mongoose";
-
-// const MONGODB_URI =
-//   "mongodb+srv://rathodvishal016:goodluck@cluster0.irbjewe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+import mongoose from "mongoose"
 
 const MONGODB_URI = "mongodb://localhost:27017/practiceAPI";
 
